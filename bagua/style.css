@@ -20,8 +20,8 @@ body{
     margin: 100px auto;
     animation-duration:3s;
     animation-name:slidein;
-    /* animation-direction:alternate;
-    animation-iteration-count:infinite; */
+    animation-direction:alternate;
+    animation-iteration-count:infinite;
 }
 
 #yinyang::before{
